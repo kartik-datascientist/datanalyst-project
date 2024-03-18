@@ -1,1 +1,1 @@
-# datanalyst-project
+# hospitality-datanalyst-project
